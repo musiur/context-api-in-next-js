@@ -14,7 +14,7 @@ const Navbar = () => {
         <Link href="/about">About</Link>
       </div>
       <div className="n__github">
-        <Link href="/">Github</Link>
+        <a href="https://github.com/musiur/context-api-in-next-js">Github</a>
       </div>
     </nav>
   );
